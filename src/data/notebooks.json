@@ -1,0 +1,92 @@
+[
+{
+"id":1,
+"name":"ASUS ROG Strix G16",
+"cpu":"Intel Core i7-13650HX",
+"ram":"16GB DDR5",
+"gpu":"RTX 4060",
+"price":49990
+},
+
+{
+"id":2,
+"name":"Lenovo Legion 5",
+"cpu":"AMD Ryzen 7",
+"ram":"16GB",
+"gpu":"RTX 4060",
+"price":45990
+},
+
+{
+"id":3,
+"name":"Acer Nitro V",
+"cpu":"Intel Core i5",
+"ram":"16GB",
+"gpu":"RTX 4050",
+"price":32990
+},
+
+{
+"id":4,
+"name":"MSI Katana 15",
+"cpu":"Intel Core i7",
+"ram":"16GB",
+"gpu":"RTX 4060",
+"price":42990
+},
+
+{
+"id":5,
+"name":"MacBook Air M3",
+"cpu":"Apple M3",
+"ram":"16GB",
+"gpu":"Integrated",
+"price":39900
+},
+
+{
+"id":6,
+"name":"HP Victus 15",
+"cpu":"Ryzen 5",
+"ram":"16GB",
+"gpu":"RTX 3050",
+"price":28990
+},
+
+{
+"id":7,
+"name":"Dell G15",
+"cpu":"Intel i7",
+"ram":"16GB",
+"gpu":"RTX 4050",
+"price":37990
+},
+
+{
+"id":8,
+"name":"ASUS TUF Gaming A15",
+"cpu":"Ryzen 7",
+"ram":"16GB",
+"gpu":"RTX 4060",
+"price":41990
+},
+
+{
+"id":9,
+"name":"Lenovo IdeaPad Gaming",
+"cpu":"Ryzen 5",
+"ram":"16GB",
+"gpu":"RTX 3050",
+"price":29990
+},
+
+{
+"id":10,
+"name":"Acer Swift Go",
+"cpu":"Intel Ultra 7",
+"ram":"16GB",
+"gpu":"Intel Arc",
+"price":35990
+}
+
+]
